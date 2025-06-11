@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: nginx
+        image: shaikmustafa/dm
         ports:
         - containerPort: 80
